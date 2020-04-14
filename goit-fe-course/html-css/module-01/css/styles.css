@@ -1,0 +1,7 @@
+.body {
+  display: inline-block;
+  margin-right: 306px;
+}
+.body:nth-last-child() {
+  margin-right: 0px;
+}
